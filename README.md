@@ -1,1 +1,3 @@
 # biotecnologia
+É o ramo sanitário e responsável, conforme a Biotechnology Innovation Organization (BIO), pela elaboração de mais de 250 vacinas e medicamentos, como antibióticos, terapias regenerativas e fabricação de órgãos artificiais. Representa a área da saúde e tudo dentro dela. Inclui a produção de antibióticos, o desenvolvimento de fármacos, de vacinas, de novas terapias  e de ferramentas de diagnóstico. Por exemplo, temos desde terapias para o tratamento de doenças como o câncer até os testes de diagnóstico como aqueles desenvolvidos para a detecção da COVID-19. 
+Por meio de manipulações genéticas, a biotecnologia vermelha podem auxiliar na criação de ferramentas de diagnóstico de doenças também.
